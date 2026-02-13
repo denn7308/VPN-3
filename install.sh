@@ -19,8 +19,8 @@ read_input_yn() {
     echo
 }
 
-REPO_URL="https://github.com/denn7308/VPN-3.git"
-PROJECT_DIR="VPN-3"
+REPO_URL="https://github.com/denn7308/vpn-3xui-shopbot.git"
+PROJECT_DIR="vpn-3xui-shopbot"
 NGINX_CONF_FILE="/etc/nginx/sites-available/${PROJECT_DIR}.conf"
 
 echo -e "${GREEN}--- Запуск скрипта установки/обновления 3xui-ShopBot ---${NC}"
